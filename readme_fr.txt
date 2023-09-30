@@ -111,5 +111,5 @@ exécute la commande suivante (selon le programme qu'on veut exécuter):
 
 ## Auteurs
 
-Sarra Mejri, numéro étudiant: 12101522
 Maya Soufan, numéro étudiant: 12102583
+Sarra Mejri, numéro étudiant: 12101522
